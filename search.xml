@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>信号与系统</title>
+      <link href="/2025/01/30/2025-1-30-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/"/>
+      <url>/2025/01/30/2025-1-30-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="信号与系统"><a href="#信号与系统" class="headerlink" title="信号与系统"></a>信号与系统</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>笔记附在最后！！！</p><p>转自浙江大学胡浩基老师的信号与系统课程，授课时使用的教材是化学工业出版社《信号与系统》于慧敏（第二版），也非常推荐奥本海默、郑君里编著的教材作为参考。<br>信号与系统课程资料可在GitHub上下载，项目地址：<a href="https://github.com/VipaiLab/Signals-and-Systems-course">https://github.com/VipaiLab/Signals-and-Systems-course</a><br>或者在蓝奏云上下载压缩包：<a href="https://wwz.lanzouv.com/b03j583ti">https://wwz.lanzouv.com/b03j583ti</a> 密码:dvnf</p><h2 id="绪论"><a href="#绪论" class="headerlink" title="绪论"></a>绪论</h2><ol><li>信号：表达、传递信息的符号</li><li>系统：有输入有输出</li><li>产生信号 -&gt; 设计系统 -&gt; 输出新的信号</li></ol><h2 id="典型的信号"><a href="#典型的信号" class="headerlink" title="典型的信号"></a>典型的信号</h2><ol><li>能量为函数范式的平方</li><li></li></ol><h2 id="一些思考："><a href="#一些思考：" class="headerlink" title="一些思考："></a>一些思考：</h2><ol><li>DNA信息的传递需要慢，需要无序性，从而保证基因的的多样性，变异代表有进化的潜力</li><li></li></ol><h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B71.jpg" alt="信号1"></p><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B72.jpg" alt="信号2"></p><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B73.jpg" alt="信号3"></p><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B74.jpg" alt="信号4"></p><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B75.jpg" alt="信号5"></p><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B76.jpg" alt="信号6"></p><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B77.jpg" alt="信号7"></p><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B78.jpg" alt="信号8"></p><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B79.jpg" alt="信号9"></p><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B710.jpg" alt="信号10"></p><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B711.jpg" alt="信号11"></p><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B712.jpg" alt="信号12"></p><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B713.jpg" alt="信号13"></p><p><img src="/%5Cassets%5Cstudy%5C%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%5C%E4%BF%A1%E5%8F%B714.jpg" alt="信号14"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> study </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>模电</title>
       <link href="/2025/01/25/2025-1-25-%E6%A8%A1%E7%94%B5/"/>
       <url>/2025/01/25/2025-1-25-%E6%A8%A1%E7%94%B5/</url>

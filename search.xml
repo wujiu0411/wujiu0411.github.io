@@ -5,6 +5,25 @@
     
     <entry>
       <title>51弹球游戏</title>
+      <link href="/2025/03/17/2025-3-17-RoboMaster/"/>
+      <url>/2025/03/17/2025-3-17-RoboMaster/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="RoboMaster"><a href="#RoboMaster" class="headerlink" title="RoboMaster"></a>RoboMaster</h1><p>图像识别实践经验（YOLO）<br>嘉立创eda设计电路板<br>蓝牙模块pid控制麦轮小车</p><p><em>项目仓库：<a href="https://gitee.com/wujiu0411/robomaster-dragon">https://gitee.com/wujiu0411/robomaster-dragon</a></em></p><h2 id="上海大学robomaster蛟龙战队校内赛电控代码"><a href="#上海大学robomaster蛟龙战队校内赛电控代码" class="headerlink" title="上海大学robomaster蛟龙战队校内赛电控代码"></a>上海大学robomaster蛟龙战队校内赛电控代码</h2><p>软件架构说明</p><p>使用CUBEMX配置</p><p>使用说明<br>STM32RCT6<br>蓝牙HC-05<br>舵机MG995<br>降压板LM2569<br><strong>特别注意降压模块最大电流是否超出！防止过流运行！</strong></p><p>装车实物图</p><p><img src="/%5Cassets%5Cstudy%5Crobomaster.jpg"></p><p>​</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> study </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>RoboMaster</title>
       <link href="/2025/03/17/2025-3-16-51/"/>
       <url>/2025/03/17/2025-3-16-51/</url>
       
